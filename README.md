@@ -18,3 +18,7 @@ Download the model with curl
 You can run the model on a cropped face image using the `run_image.py` command.
 
     python run_image.py ResNet18_batchsize-96_trainlayers-all_fctype-linear_int_fcint-300_learningrate-0.0001_lrdecay-0.1_lrdecaystep-7_epochs-15_optimizer-sgd_model-resnet18_cropping-true_balanced-true_rebalanced-true.pth examples/3792_06-25_Console.png
+
+Retinaface was used for cropping faces from images.
+
+There are a few example images in the `examples` directory taken from the [SHRP2 Safety Pilot Study](https://insight.shrp2nds.us/)
