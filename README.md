@@ -3,6 +3,13 @@
 This is a fine-tuned model based on ResNet18 and trained on the SHRP2 Baseline and Crash dataset to estimate head pose by category. It can identify six categories "Center stack, Cup holder - console", "Forward, Instrument cluster, Left windshield", "Left window / mirror", "Rearview mirror", "Right window / mirror", "Right windshield".
 
 ## Setup
+The dependencies are
+
+- python3
+- pytorch
+- torchvision
+- Pillow
+
 I suggest using a python virtualenv to run the code.
 
     virtualenv vpy
