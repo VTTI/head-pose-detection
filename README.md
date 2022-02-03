@@ -1,3 +1,11 @@
+# Introduction
+
+Driver distraction is one of the top reasons for road crashes and fatality. In this work we used large scale naturalistic data, SKRP2 NDS, to predict driver gaze from a single image. Contrary to traditional systems, this project focuses on naturalistic images with no color information, high spatial noise, and high compression. 
+
+This work was presented at TRB 2022, and currently under review at TRR. 
+•	C. Winkowski, A. Sarkar, A. Svetovidov, J. Hickman, A. L. Abbott, “Residual Network-Based Driver Gaze Classification In1naturalistic Driving Studies”, Transportation Research Record (2021, under review) – presented at TRB Annual meeting 2021
+
+
 # Eyeglance Detection
 
 This is a fine-tuned model based on ResNet18 and trained on the SHRP2 Baseline and Crash dataset to estimate head pose by category. It can identify six categories "Center stack, Cup holder - console", "Forward, Instrument cluster, Left windshield", "Left window / mirror", "Rearview mirror", "Right window / mirror", "Right windshield".
