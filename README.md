@@ -4,7 +4,7 @@ Driver distraction is one of the top reasons for road crashes and fatality. In t
 
 This work was presented at TRB 2022, and currently under review at TRR. 
 
-C. Winkowski, A. Sarkar, A. Svetovidov, J. Hickman, A. L. Abbott, “Residual Network-Based Driver Gaze Classification In1naturalistic Driving Studies”, Transportation Research Record (2021, under review) – presented at TRB Annual meeting 2021
+C. Winkowski, A. Sarkar, J. Hickman, A. L. Abbott, “Residual Network-Based Driver Gaze Classification In1naturalistic Driving Studies”, Transportation Research Record (2021, under review) – presented at TRB Annual meeting 2021
 
 
 # Eyeglance Detection
